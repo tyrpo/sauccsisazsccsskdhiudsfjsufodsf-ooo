@@ -3,7 +3,7 @@ body {
 	padding: 0;
 	font-size: 18px;
 	color: var(--tg-theme-text-color);
-	background: #cfcfcf;
+	background: #2e3138;
 	display: flex;  
   	justify-content: center; 
 /*   	min-height: 100vh;  */
