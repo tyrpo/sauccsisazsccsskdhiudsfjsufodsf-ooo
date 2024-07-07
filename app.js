@@ -66,34 +66,12 @@ btn5.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("Нажмите, чтобы оплатить или узнать больше!");
-		item = "5";
-		tg.MainButton.show();
-	}
-});
-
-btn6.addEventListener("click", function(){
-	if (tg.MainButton.isVisible) {
-		tg.MainButton.hide();
-	}
-	else {
-		tg.MainButton.setText("Нажмите, чтобы оплатить или узнать больше!");
-		item = "6";
-		tg.MainButton.show();
-	}
-});
-
-btn7.addEventListener("click", function(){
-	if (tg.MainButton.isVisible) {
-		tg.MainButton.hide();
-	}
-	else {
-		tg.MainButton.setText("Нажмите, чтобы оплатить или узнать больше!");
 		item = "7";
 		tg.MainButton.show();
 	}
 });
 
-btn8.addEventListener("click", function(){
+btn6.addEventListener("click", function(){
 	if (tg.MainButton.isVisible) {
 		tg.MainButton.hide();
 	}
